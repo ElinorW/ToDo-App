@@ -11,7 +11,7 @@
 <a href="https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers"><strong>Read on FreeCodeCamp »</strong></a></p>
 
   <p align="center">
-    Resources, Languages and frameworks used
+  **Resources, Languages and frameworks used**
   </p>
 
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-brightgreen?logo=freeCodeCamp)](https://www.freecodecamp.org/)
