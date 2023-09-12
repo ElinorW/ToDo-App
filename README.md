@@ -36,10 +36,6 @@ these steps:
 
 1. Clone the repository to your local machine.
 
-```bash
-git@github.com:ElinorW/ToDo-App.git
-```
-
 2. Open the cloned folder in your preferred code editor, install the required
    dependencies by running the following command in the terminal:
 
